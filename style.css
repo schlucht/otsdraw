@@ -5,6 +5,8 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
-#myCanvas {
-    
+#toolbox {
+    position: absolute;
+    top: 0;
+    margin: 5px;
 }
